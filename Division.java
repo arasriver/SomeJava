@@ -1,7 +1,6 @@
 package Git;
 
 import java.util.Scanner;
-
 public class Division {
     public static void main(String[] args){
         Scanner scanne = new Scanner(System.in);
